@@ -30,7 +30,6 @@ void main() {
   Car car2 = Car('Honda', 'Civic', 2018, 30000);
   Car car3 = Car('BanglaCar', 'GloryAuto', 2020, 10000);
 
-
   car1.drive(1500);
   car2.drive(2000);
   car3.drive(500);
